@@ -15,7 +15,7 @@ https://archlinux.org/packages/extra/any/edk2-ovmf/
 ---
 ## [kvm installation guide for windows 11](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
-## How to extend/increase a Windows Partition on a KVM QEMU VM
+## How to extend/increase a Windows partition
 
 1. Shutdown the VM
 
