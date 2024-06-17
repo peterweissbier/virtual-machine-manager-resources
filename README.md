@@ -1,6 +1,7 @@
 # enabling UEFI support for BIOS
 
 <pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://github.com/tianocore/tianocore.github.io/wiki/OVMF
+
 more information:
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#</pre>
 ---
