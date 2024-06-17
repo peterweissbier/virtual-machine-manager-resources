@@ -6,7 +6,8 @@ https://github.com/tianocore/tianocore.github.io/wiki/OVMF
 
 more information:
 
-https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
+
 ---
 ## [kvm installation guide for windows 11](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
