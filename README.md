@@ -1,8 +1,8 @@
 ## [https://github.com/joeknock90/Single-GPU-Passthrough](single gpu passthrough)
 ---
-## [more infos](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
+## [more extensive guide](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
-https://sysguides.com/install-kvm-on-linux#3-04-install-virtio-drivers-for-windows-guests-
+## [install virtio drivers](https://sysguides.com/install-kvm-on-linux#3-04-install-virtio-drivers-for-windows-guests-)
 ---
 ## enabling UEFI support for BIOS
 
