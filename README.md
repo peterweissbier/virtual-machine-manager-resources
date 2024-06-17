@@ -1,6 +1,6 @@
-## [single gpu passthrough](https://github.com/joeknock90/Single-GPU-Passthrough)
+## [single gpu passthrough github guide](https://github.com/joeknock90/Single-GPU-Passthrough)
 ---
-## [more extensive guide](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
+## [more extensive guide from sysguides.com](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
 ## [install virtio drivers](https://sysguides.com/install-kvm-on-linux#3-04-install-virtio-drivers-for-windows-guests-)
 ---
@@ -16,8 +16,6 @@ aur package
 
 https://archlinux.org/packages/extra/any/edk2-ovmf/
 
----
-## [kvm installation guide for windows 11](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
 ## How to extend/increase a Windows partition
 
