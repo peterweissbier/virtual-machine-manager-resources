@@ -7,8 +7,7 @@
 more information:
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#</pre>
 ---
-## kvm installation guide for windows 11
-https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware
+## [kvm installation guide for windows 11](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
 ## How to extend/increase a Windows Partition on a KVM QEMU VM
 
