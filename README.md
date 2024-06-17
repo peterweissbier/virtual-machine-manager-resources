@@ -1,4 +1,4 @@
-# single-gpu-passthrough
+# enabling UEFI support for BIOS
 
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#
 https://github.com/tianocore/tianocore.github.io/wiki/OVMF
