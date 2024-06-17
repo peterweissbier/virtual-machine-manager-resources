@@ -1,5 +1,7 @@
 ## https://github.com/joeknock90/Single-GPU-Passthrough
 ---
+## more infos https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware
+---
 ## enabling UEFI support for BIOS
 
 https://github.com/tianocore/tianocore.github.io/wiki/OVMF
