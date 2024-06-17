@@ -1,16 +1,13 @@
 # enabling UEFI support for BIOS
 
-https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#
 https://github.com/tianocore/tianocore.github.io/wiki/OVMF
-
-## extensive installation guide for windows 11
-https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware
-
+more information:
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#
 ---
-  
-## How to extend / increase a Windows Partition on KVM QEMU VM
-
-We have a Windows 7 VM running on Ubuntu KVM. I needed to give the Windows 7 machine more disk space. This turns out to be really easy (when you know how).
+## kvm installation guide for windows 11
+https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware
+---
+## How to extend/increase a Windows Partition on a KVM QEMU VM
 
 1. Shutdown the VM
 
