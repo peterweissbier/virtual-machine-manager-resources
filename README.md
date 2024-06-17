@@ -8,6 +8,10 @@ more information:
 
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
 
+aur package
+
+https://archlinux.org/packages/extra/any/edk2-ovmf/
+
 ---
 ## [kvm installation guide for windows 11](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
 ---
