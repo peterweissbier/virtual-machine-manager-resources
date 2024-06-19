@@ -1,8 +1,8 @@
+## [How to install KVM on Linux](https://sysguides.com/install-kvm-on-linux)
+---
+## [more extensive guide from sysguides.com](How to install a Windows 11 Virtual Machine on KVM)
+---
 ## [single gpu passthrough github guide](https://github.com/joeknock90/Single-GPU-Passthrough)
----
-## [more extensive guide from sysguides.com](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm#0-1-configure-windows-11-virtual-hardware)
----
-## [install virtio drivers](https://sysguides.com/install-kvm-on-linux#3-04-install-virtio-drivers-for-windows-guests-)
 ---
 ## enabling UEFI support for BIOS
 
