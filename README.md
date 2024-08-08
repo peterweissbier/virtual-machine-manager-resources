@@ -4,6 +4,13 @@
 ---
 ## [single gpu passthrough github guide](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough)
 ---
+## fullscreen resolution for VM
+
+[Spice Guest Tools](https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.exe)
+
+
+
+---
 ## enabling UEFI support for BIOS
 
 https://github.com/tianocore/tianocore.github.io/wiki/OVMF
