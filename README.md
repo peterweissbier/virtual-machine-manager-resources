@@ -4,8 +4,6 @@
 ---
 ## [single gpu passthrough github guide](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough)
 ---
-## [Sharing Files between the Linux Host and a Windows VM using virtiofs](https://www.heiko-sieger.info/sharing-files-between-the-linux-host-and-a-windows-vm-using-virtiofs/)
----
 ## enabling UEFI support for BIOS
 
 https://github.com/tianocore/tianocore.github.io/wiki/OVMF
