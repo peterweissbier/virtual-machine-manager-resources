@@ -6,7 +6,7 @@
 
 ## enable TPM v2.0 support
 
-install the package swtpm
+* install the package swtpm
 
 ---
 ## What to do if the `default` network interface is not listed
