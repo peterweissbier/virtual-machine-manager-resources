@@ -5,6 +5,7 @@
 ## [single gpu passthrough github guide](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough)
 
 ## enable TPM v2.0 support
+
 install the package swtpm
 
 ---
@@ -17,46 +18,7 @@ install the package swtpm
    * Then just `autostart` it like so,
    
          sudo virsh net-autostart default 
----
-## What to do if you cannot access storage file and get "Permission denied Error in KVM Libvirt"
 
-   * Step 1: Edit `/etc/libvirt/qemu.conf` file:
-   
-         sudo nano /etc/libvirt/qemu.conf
-   
-   * Step 2: Find the `user` and `group` directives. By default, both are set to `"root"`,
-   
-          [...] 
-          Some examples of valid values are:
-          #
-          user = "qemu"   # A user named "qemu"
-          user = "+0"     # Super user (uid=0)
-          user = "100"    # A user named "100" or a user with uid=100
-          #
-          #user = "root"
-          The group for QEMU processes run by the system instance. It can be
-          specified in a similar way to user.
-          #group = "root"
-          [...]
-
-     Uncomment both lines and replace root with your username and group with libvirt as shown below:
-
-          [...] 
-          Some examples of valid values are:
-          #
-          user = "qemu"   # A user named "qemu"
-          user = "+0"     # Super user (uid=0)
-          user = "100"    # A user named "100" or a user with uid=100
-          #
-          user = "sk"
-          The group for QEMU processes run by the system instance. It can be
-          specified in a similar way to user.
-          group = "libvirt"
-          [...]
-
-   * Step 3: Restart libvirtd service:
-
-          sudo systemctl restart libvirtd
 ---
 ## Reference:
 
