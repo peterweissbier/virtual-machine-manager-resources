@@ -8,7 +8,11 @@
 
 * install the package swtpm
 
----
+## enable file share between host and vm
+
+https://www.heiko-sieger.info/sharing-files-between-the-linux-host-and-a-windows-vm-using-virtiofs/
+
+
 ## What to do if the `default` network interface is not listed
 
    * If `virsh net-list` is not listing any network interface just reinitialize it with,
